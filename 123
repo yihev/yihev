@@ -1,8 +1,6 @@
 #NAME [ IPTV-123 ]
-
 #SERVICE 4097:64:4:0:0:0:0:0:0:0: *** NEWS ***
 #DESCRIPTION *** NEWS ***
-
 #SERVICE 4097:0:1:6E8:C544:16E:A00000:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0:N1 BiH
 #DESCRIPTION N1 BiH
 #SERVICE 4097:0:1:116B:9CA4:16E:A00000:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0:N1 Srbija
