@@ -5,16 +5,12 @@
 
 #SERVICE 4097:0:1:6E8:C544:16E:A00000:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0:N1 BiH
 #DESCRIPTION N1 BiH
-             
 #SERVICE 4097:0:1:116B:9CA4:16E:A00000:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0:N1 Srbija
 #DESCRIPTION N1 Srbija
-
 #SERVICE 4097:0:1:6E8:C544:16E:A00000:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0:N1 Hrvatska
 #DESCRIPTION N1 Hrvatska
-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp%3aRWxI5IQr_all/chunklist_w2029269937_b6256000.m3u8
 #DESCRIPTION Euronews Srbija
-
 ##SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//catchup.iptv.iinet.rs/playlist.m3u8?id=103&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR:Al Jazeera Balkans
 #SERVICE 4097:0:19:65:1:16E:A02BFE:0:0:0:https%3a//live-hls-web-ajb.getaj.net/AJB/02.m3u8:Al Jazeera Balkans
 #DESCRIPTION Al Jazeera Balkans
